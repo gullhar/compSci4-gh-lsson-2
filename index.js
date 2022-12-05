@@ -1,2 +1,5 @@
-console.log("JKJJ")
-console.log("JI")
+const printFruit=()=>{
+    console.log("Hello world")
+    console.log("I am hungry") 
+};
+printFruit();
